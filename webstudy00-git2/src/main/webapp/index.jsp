@@ -20,6 +20,7 @@
 <body>
 <div class = "container">
 index1
+index2
 </div>	
 
 </body>
